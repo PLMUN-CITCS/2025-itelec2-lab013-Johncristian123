@@ -8,5 +8,3 @@ for num in numbers:
         break  # Exit the loop completely when num is 7
 
     print(num)  # Print the number if it's not skipped or breaking the loop
-
-lab 13
